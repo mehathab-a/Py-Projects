@@ -5,3 +5,6 @@ Task 2:
   The special characters existing withing the file are searched for and removed. which makes the file readable.
 Task 3:
   Replace all the four letter words with their first letter follwed by 3 astrixs
+
+These Changes are programmed using Pycharm
+The file is made a-new and named as 'new_txt.txt'
